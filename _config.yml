@@ -1,0 +1,28 @@
+name: Poe Script
+favicon: null
+layout_spectrum: 0.8225059872493148
+typography_spectrum: 0.5874292165972292
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1111903227865696
+  lightness: 0.6743800924159586
+  saturation: 0.9299837334547192
+  rhythmicContrast: 0.6653690468519926
+purpose: []

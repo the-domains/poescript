@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Poe Script]]></title>
+        <description><![CDATA[Poe Script]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 23:50:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>In the fall of 2013 I was commissioned to digitize the handwriting of the great American writer, Edgar Allan Poe. Having a grand total of five graphic design courses completed, I felt overwhelmingly clueless about how to go about this process. So naturally, I accepted the job and got to work right away at the process, making things up as I went.</p>]]></description>
+            <link>undefineddc8d349c-d4f1-47e6-8b88-a5b67c473b5f/index.html</link>
+            <guid isPermaLink="false">dc8d349c-d4f1-47e6-8b88-a5b67c473b5f</guid>
+            <pubDate>Tue, 09 Feb 2016 23:50:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

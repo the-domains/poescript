@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Poe Script]]></title>
         <description><![CDATA[Poe Script]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/poescript/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 23:50:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 23:52:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/poescript/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>In the fall of 2013 I was commissioned to digitize the handwriting of the great American writer, Edgar Allan Poe. Having a grand total of five graphic design courses completed, I felt overwhelmingly clueless about how to go about this process. So naturally, I accepted the job and got to work right away at the process, making things up as I went.</p>]]></description>
-            <link>undefineddc8d349c-d4f1-47e6-8b88-a5b67c473b5f/index.html</link>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>In the fall of 2013 I was commissioned to digitize the handwriting of the great American writer, Edgar Allan Poe. Having a grand total of five graphic design courses completed, I felt overwhelmingly clueless about how to go about this process. So naturally, I accepted the job and got to work right away at the process, making things up as I went.</p></article>]]></description>
+            <link>https://thegrid.ai/poescript/dc8d349c-d4f1-47e6-8b88-a5b67c473b5f/index.html</link>
             <guid isPermaLink="false">dc8d349c-d4f1-47e6-8b88-a5b67c473b5f</guid>
-            <pubDate>Tue, 09 Feb 2016 23:50:18 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 23:52:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
